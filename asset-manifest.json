@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/halbot/static/css/main.b96144ee.css",
+    "main.js": "/halbot/static/js/main.a96fdf87.js",
+    "static/js/453.8b1b0a5e.chunk.js": "/halbot/static/js/453.8b1b0a5e.chunk.js",
+    "static/media/boticon.png": "/halbot/static/media/boticon.f225fc80f102ee425da7.png",
+    "static/media/fi-rr-info.svg": "/halbot/static/media/fi-rr-info.99b51796cab4f21521f58d7bd7a8dd0b.svg",
+    "static/media/fi-rr-angle-down.svg": "/halbot/static/media/fi-rr-angle-down.5a770b193aaa1e2d6c89d01a5cb3178d.svg",
+    "static/media/fi-rs-paper-plane.svg": "/halbot/static/media/fi-rs-paper-plane.47facbd35f961a2880aab9a5a9ebf4a9.svg",
+    "index.html": "/halbot/index.html",
+    "main.b96144ee.css.map": "/halbot/static/css/main.b96144ee.css.map",
+    "main.a96fdf87.js.map": "/halbot/static/js/main.a96fdf87.js.map",
+    "453.8b1b0a5e.chunk.js.map": "/halbot/static/js/453.8b1b0a5e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b96144ee.css",
+    "static/js/main.a96fdf87.js"
+  ]
+}
